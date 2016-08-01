@@ -1,4 +1,5 @@
 FROM datadrivenhpc/slurmbase
+MAINTAINER Ole Weidner <ole.weidner@ed.ac.uk>
 
 ADD scripts/start.sh /root/start.sh
 RUN chmod +x /root/start.sh

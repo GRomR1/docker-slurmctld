@@ -1,3 +1,3 @@
 # A Docker SLURM Cluster 
 
-See https://github.com/datadrivenhpc/docker-slurmbase for details and instructions.
+See https://github.com/GRomR1/docker-slurmbase for details and instructions.
